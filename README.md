@@ -2,6 +2,7 @@
 This project utilizes artificial neural networks and convolutional neural networks to identify images of numbers 0-9.
 
 Example images:
+
 ![image](https://github.com/MillerAJ/Street_View_House_Number_Classification/assets/9644656/1f1bce48-258c-418b-b51a-fed9b145278d)
 
 
