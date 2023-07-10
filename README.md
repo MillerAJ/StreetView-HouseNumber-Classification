@@ -1,5 +1,5 @@
 # Street_View_House_Number_Classification
-This project utilizes artificial neural networks and convolutional neural networks to identify images of numbers 0-9.
+Written in python, this project utilizes scikit-learn and tensorflow to create and train convolutional neural networks to identify images of numbers 0-9.
 
 
 Example images:
